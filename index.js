@@ -1,2 +1,3 @@
 let x = 'ada'
-console.log(x)
+let y = 'de sions'
+console.log(x, y)
